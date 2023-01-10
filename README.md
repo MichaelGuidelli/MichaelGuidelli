@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-
-**MichaelGuidelli/MichaelGuidelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 Here is a list of technologies and tools i know and use within my studies. <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" widht="50" height="50" title="Visual Studio Code" alt="Visual Studio Code">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" widht="50" height="50" title="Python" alt="Python">
