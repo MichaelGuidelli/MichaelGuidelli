@@ -14,3 +14,4 @@ Here is a list of technologies and tools i know and use within my studies. <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" widht="50" height="50" title="APACHE" alt="APACHE">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" widht="50" height="50" title="JAVASCRIPT" alt="JAVASCRIPT">
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" widht="50" height="50" title="Figma" alt="Figma">
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" widht="50" height="50" title="C" alt="C">
