@@ -18,5 +18,5 @@ Here is a list of technologies and tools i know. <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" widht="50" height="50" title="Figma" alt="Figma">
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" widht="50" height="50" title="C" alt="C">
 <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" widht="50" height="50" title="Angular" alt="Angular">
-<img src="https://github.com/devicons/devicon/blob/master/icons/angular/ionic-original.svg" widht="50" height="50" title="Ionic" alt="Ionic">
+<img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" widht="50" height="50" title="Ionic" alt="Ionic">
 
