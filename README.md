@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-I'm currently work as an Angular developer at <a href="https://www.lafschool.it/">LAF School</a> 
 </br>
 Here is a list of technologies and tools i know. <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" widht="50" height="50" title="Visual Studio Code" alt="Visual Studio Code">
