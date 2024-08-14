@@ -1,6 +1,8 @@
 ### Hi there 👋
 </br>
 Here is a list of technologies and tools i know. <br>
+
+<li>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" widht="50" height="50" title="Visual Studio Code" alt="Visual Studio Code">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" widht="50" height="50" title="Python" alt="Python">
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width="50" height="50" title="NumPy" alt="NumPy">
@@ -17,4 +19,4 @@ Here is a list of technologies and tools i know. <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" widht="50" height="50" title="C" alt="C">
 <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" widht="50" height="50" title="Angular" alt="Angular">
 <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" widht="50" height="50" title="Ionic" alt="Ionic">
-
+</li>
